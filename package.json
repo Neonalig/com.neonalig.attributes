@@ -1,0 +1,11 @@
+﻿{
+  "name": "com.neonalig.attributes",
+  "version": "1.0.0",
+  "displayName": "Neonalig Attributes",
+  "description": "Custom Unity PropertyAttributes with editor drawers for enhanced inspector functionality.",
+  "unity": "2021.3",
+  "keywords": ["attributes", "inspector", "editor", "property"],
+  "author": {
+    "name": "Neonalig"
+  }
+}

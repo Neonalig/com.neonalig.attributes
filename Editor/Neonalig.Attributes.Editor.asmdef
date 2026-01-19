@@ -1,0 +1,19 @@
+{
+    "name": "Neonalig.Attributes.Editor",
+    "rootNamespace": "Neonalig.Attributes.Editor",
+    "references": [
+        "Neonalig.Attributes.Runtime",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
